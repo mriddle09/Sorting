@@ -1,2 +1,2 @@
-#Sorting
+# Sorting
 This is a program that allows the user to select various sorting algorithms to sort text files of numbers. The user may choose which file to sort through command line arguments and tells the user the number of comparisons required to sort the file.
